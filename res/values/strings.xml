@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Demo1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity2">Demo1</string>
+    <string name="title_activity_main_activity3">MainActivity3</string>
+    <string name="string">k</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_activity_activity1">Activity1</string>
+
+</resources>
